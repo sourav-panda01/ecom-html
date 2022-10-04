@@ -1,0 +1,9 @@
+.header{
+    display:flex;
+}
+
+#footer{
+    display: flex;
+    align-items: center;
+    position: fixed;
+}
